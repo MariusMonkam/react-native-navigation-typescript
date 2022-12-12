@@ -1,2 +1,2 @@
-# react-native-navigation-typescript
+# react-native-typescript-playground
 Created with CodeSandbox
